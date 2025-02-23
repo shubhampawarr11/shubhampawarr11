@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Pawar</h1>
 <h3 align="center">Web Developer With Expertise In Front-End Development, Experienced in React.JS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhampawarr11&label=Profile%20views&color=0e75b6&style=flat" alt="shubhampawarr11" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhampawarr11" alt="shubhampawarr11" /></a> </p>
-
 - 🌱 I’m currently learning **Redux, Github, Linux, BootStrap, Microsoft Excel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shubhampawarr11](https://github.com/shubhampawarr11)
